@@ -10,7 +10,7 @@ Ul: Számmal jelöletlen lista
 
 Ol: Számmal jelölt lista
 
-A: Ezt a taget hyperlinkek készítésére használjuk. (pl.: <a href"https://sulipy.hu">Sulipy </a>
+A: Ezt a taget hyperlinkek készítésére használjuk. (pl.: <a href"https://sulipy.hu">Sulipy</a>
 
 Nav: Ez általában egy oldal menüjét tartalmazza
 
